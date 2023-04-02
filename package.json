@@ -1,5 +1,5 @@
 {
-  "name": "i18nnext-vue3-storybook-example",
+  "name": "@hrgui/i18next-vue3-storybook-example",
   "version": "0.0.0",
   "private": true,
   "scripts": {
